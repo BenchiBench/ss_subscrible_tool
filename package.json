@@ -7,7 +7,7 @@
     "build": "node app.js"
   },
   "keywords": [
-    "ssr", "subscrible link"
+    "v2ray", "subscrible link"
   ],
   "author": "Andy Chung",
   "license": "ISC"
